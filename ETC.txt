@@ -1,0 +1,30 @@
+- 기업 Git 저장소 표준 구조
+repo
+│
+├─ README.md
+├─ CHANGELOG.md
+├─ CONTRIBUTING.md
+├─ CODE_OF_CONDUCT.md
+├─ SECURITY.md
+├─ ARCHITECTURE.md
+├─ RELEASE.md
+├─ LICENSE
+│
+├─ docs
+├─ src
+└─ tests
+
+- 기업에서 추가로 쓰는 문서 (대형 조직)
+ROADMAP.md
+DEPLOYMENT.md
+API.md
+GIT_WORKFLOW.md
+
+- LICENSE (MIT 예시)
+MIT License
+
+Copyright (c) 2026
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files to deal in the Software
+without restriction.
